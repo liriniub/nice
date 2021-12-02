@@ -1,11 +1,11 @@
 {
-    "name": "XRay",
+    "name": "nice",
     "description": "Deploy Xray on Heroku.",
-    "keywords": ["XRay"],
+    "keywords": ["nice"],
     "env": {
         "UUID": {
             "description": "XRay UUID",
-            "value": "7901563d-d07c-45da-85b7-707bc3d9377f"
+            "value": "1437cf17-0813-43f3-94f4-fc261ebe9ae3"
         }
     },
     "website": "https://www.x-potato.com",
