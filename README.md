@@ -1,8 +1,8 @@
-# XRay Heroku
+# nice Heroku
 
 ## 概述
 
-用于在 Heroku 上部署 XRay Websocket。
+用于在 Heroku 上部署nice Websocket。
 
 **Heroku 为我们提供了免费的容器服务，我们不应该滥用它，所以本项目不宜做为长期翻墙使用。**
 
@@ -12,7 +12,7 @@
 
 本镜像不会因为大量占用资源而被封号。
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fyxhit%2Fwordpres-Heroku)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/liriniub/nice)
 
 ### UUID
 
